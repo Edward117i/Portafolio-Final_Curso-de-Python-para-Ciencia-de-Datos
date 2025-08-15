@@ -10,6 +10,7 @@
 ## 📌 Descripción del Proyecto
 Este proyecto analiza datos de ventas de un comercio minorista en línea con el objetivo de **identificar patrones de compra, productos más vendidos, clientes más valiosos y tendencias estacionales**.  
 Los resultados permiten optimizar inventarios, mejorar estrategias de marketing y aumentar la satisfacción del cliente.
+https://www.kaggle.com/datasets/tunguz/online-retail
 
 ---
 
