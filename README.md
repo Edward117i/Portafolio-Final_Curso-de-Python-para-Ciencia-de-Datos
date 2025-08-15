@@ -56,7 +56,7 @@ Los resultados permiten optimizar inventarios, mejorar estrategias de marketing 
 - **Modelos predictivos** para proyecciones y recomendaciones
 
 Ejemplo de visualización 📷  
-![Ejemplo de Gráfico](results/grafico1.png)
+![Ejemplo de Gráfico](results/Devoluciones y no Devoluciones.png)
 
 ---
 
